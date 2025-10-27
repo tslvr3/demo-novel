@@ -1,0 +1,9 @@
+# Local files
+.DS_Store
+
+# Ingorning Test module
+*.env
+
+
+
+
